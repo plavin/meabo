@@ -11,7 +11,7 @@ value. It repeats this process a number of times. The number of iterations was c
 * I loop over all phases twice, so that we get a chance to see the phases again. 
 
 
-* This repo is not maintained, the original work is located [here](https://github.com/ARM-sotware/meabo).
+* This repo is not maintained, the original work is located [here](https://github.com/ARM-software/meabo).
 
 * I added a run script `patrick_run.sh` that has the configuration I used for my phase analysis work.
 
